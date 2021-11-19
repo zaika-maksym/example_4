@@ -69,7 +69,7 @@ a {
 }
 
 .button:hover {
-  box-shadow: 0 0 5px 5px #1f50ac9a;
+  box-shadow: 0 0 5px 5px #6cbbff;
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
